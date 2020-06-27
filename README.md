@@ -32,3 +32,15 @@ Finally
 ```bash
 php artisan serve
 ```
+
+Login Credentials
+```bash
+Admin
+Email: admin@blog.com
+Password : password
+
+User
+
+ Email : author@blog.com
+ Password : password
+```
